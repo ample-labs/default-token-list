@@ -1,6 +1,6 @@
 # @ample-labs/default-token-list
 
-[![Tests](https://github.com/ample-labs/token-lists/workflows/Tests/badge.svg)](https://github.com/ample-labs/default-token-list/actions?query=workflow%3ATests)
+[![Tests](https://github.com/ample-labs/default-token-lists/workflows/Tests/badge.svg)](https://github.com/ample-labs/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@ample-labs/default-token-list)](https://unpkg.com/@ample-labs/default-token-list@latest/)
 
 This NPM module and GitHub repo contains the default token list used in the Ample interface.
